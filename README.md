@@ -14,6 +14,7 @@
 - Make a project folder
 - Clone Github repository and open it in Cursor
 - Edit README.md in Cursor
+- setting up user.name and user.email in Git
 - Commit and push to GitHub
 
 # Issue i ran into and how i solved them
